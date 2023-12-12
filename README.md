@@ -19,8 +19,7 @@ I'm  Wendy Ticmon, a passionate coder with strong skills in database management.
   - [Oracle Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B5C7E82E77C76B77ECA3D2CE8D48E791F9AFBF1BFAB24D99E3FAE02631764970&fbclid=IwAR3vkNT00EI-r90KiV6yRIv7_cSN7Kdto_lcItxIpFw_QVT-P2YfAPhzN_)
 
 - **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
-  - [Oracle Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B5C7E82E77C76B77ECA3D2CE8D48E791F9AFBF1BFAB24D99E3FAE02631764970&fbclid=IwAR3vkNT00EI-r90KiV6yRIv7_cSN7Kdto_lcItxIpFw_QVT-P2YfAPhzN_w)
-
+  - [Oracle Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DB1D2A441D2222894037589ABE9529EDCD1873C174BEAA9A854E980C0C95A6A4)
 ## Skill Sets
 
 - **Programming:** Java, JavaScript
